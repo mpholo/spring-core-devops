@@ -13,6 +13,5 @@ public class SpringCoreDevOpsApplication {
 		// another test...
 
 		//Testing Poll SCM
-
 	}
 }
